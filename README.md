@@ -1,4 +1,5 @@
-demeyere.co.uk
+
+projects.demeyere.com
 ===================
 
-github pages with the demeyere.co.uk domain.
+This project is the hub for all of the DeMeyere™ projects on Github.
