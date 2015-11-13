@@ -8,10 +8,10 @@ projects.demeyere.com
 
 tools
 -----------------
-http://projects.demeyere.com/csv-to-markdown-table/
-http://projects.demeyere.com/circle-generator/
+* http://projects.demeyere.com/csv-to-markdown-table/
+* http://projects.demeyere.com/circle-generator/
 
 
 client proofs
 -----------------
-http://projects.demeyere.com/vogeldesign/
+* http://projects.demeyere.com/vogeldesign/
